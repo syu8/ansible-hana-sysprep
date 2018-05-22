@@ -1,6 +1,6 @@
 ---
 - hosts: all
   roles:
-    - syu8.subscribe-rhn
-    - syu8.saphana-preconfigure
+    - mk-ansible-roles.subscribe-rhn
+    - mk-ansible-roles.saphana-preconfigure
 
