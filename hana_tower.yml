@@ -3,4 +3,5 @@
   roles:
     - mk-ansible-roles.subscribe-rhn
     - mk-ansible-roles.saphana-preconfigure
+    - mk-ansible-roles.saphana-deploy
 
