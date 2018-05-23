@@ -1,0 +1,4 @@
+---
+- hosts: all
+  roles:
+    - mk-ansible-roles.saphana-deploy
